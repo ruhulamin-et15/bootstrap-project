@@ -1,6 +1,10 @@
+@media (max-width: 991.98px) { 
+    
+}
+
 .mycarousel{
     margin-bottom: 50px;
-    margin-top: 80px;
+    margin-top: 70px;
 }
 .bg-color{
     background-color: #FEEAE9;
@@ -22,5 +26,5 @@
 .bg-color img{
     padding-top: 10px;
     padding-bottom: 10px;
-    height: 380px;
+    height: 370px;
 }
