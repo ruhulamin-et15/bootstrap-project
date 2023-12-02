@@ -1,12 +1,16 @@
+.mycarousel{
+    margin-bottom: 50px;
+    margin-top: 80px;
+}
 .bg-color{
     background-color: #FEEAE9;
-    margin-top: 20px;
+    border-radius: 10px;
 }
 
 .buy-btn{
     border: none;
     background-color: orangered;
-    padding: 5px;
+    padding: 5px 7px;
     color: white;
     border-radius: 5px;
 }
@@ -18,5 +22,5 @@
 .bg-color img{
     padding-top: 10px;
     padding-bottom: 10px;
-    height: 400px;
+    height: 380px;
 }

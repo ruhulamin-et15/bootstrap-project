@@ -1,4 +1,7 @@
-.headerMain{
+.container{
+    margin-bottom: 50px;
+}
+.header .navbar{
     background-color: gainsboro;
-    margin-top: 2px;
+    border-radius: 3px;
 }

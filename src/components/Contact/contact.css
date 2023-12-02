@@ -1,0 +1,18 @@
+#subscribe{
+    height: 220px;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+.submit-btn {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: aqua;
+}
+
+.cat3{
+    background-color: orangered;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    /* justify-content: space-between;
+    align-items: center; */
+}
+
+.cat1, .cat2, .cat3, .image{
+    height: 130px;
+}
+
+.category h3{
+    color: white;
+}
