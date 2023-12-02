@@ -1,0 +1,22 @@
+.bg-color{
+    background-color: #FEEAE9;
+    margin-top: 20px;
+}
+
+.buy-btn{
+    border: none;
+    background-color: orangered;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.price{
+    color: orangered;
+}
+
+.bg-color img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 400px;
+}
